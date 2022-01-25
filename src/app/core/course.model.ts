@@ -14,6 +14,6 @@ export class Course {
 })
 export class CourseAdapter {
   adapt(item: any): Course {
-    return new Course(item.id, item.code, item.title, new Date(item.created));
+    return new Course(item.id, item.code, item.label, new Date(item.created));
   }
 }

@@ -2,13 +2,13 @@
   {
     "id": 1,
     "code": "adv-maths",
-    "title": "Advanced Mathematics",
+    "label": "Advanced Mathematics",
     "created": "2018-08-14T12:09:45"
   },
   {
     "id": 2,
     "code": "cs1",
-    "title": "Computer Science I",
+    "label": "Computer Science I",
     "created": "2018-06-12T18:34:16"
   }
 ]
